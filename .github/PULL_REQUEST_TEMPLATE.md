@@ -63,3 +63,16 @@ If tests were not added, please describe why they were not added and/or why it w
 If benchmark tests were added, please run the benchmarks in GitHub Actions for the consistent environment, and the instructions could accord to: https://spark.apache.org/developer-tools.html#github-workflow-benchmarks.
 # TODO: Confirm
 -->
+
+## Checklist for the PR Reviewer
+
+**Reviewers should check the checkboxes below before approval.**
+
+- [ ] Commits are properly organized and messages are according to the guideline
+- [ ] PR title describes the changes
+
+## Post-Review Checklist for the PR Author
+
+**PR Author should check the checkboxes below before merging.**
+
+- [ ] All open points are addressed and tracked via issues or tickets
